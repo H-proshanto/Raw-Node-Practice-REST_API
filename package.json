@@ -1,0 +1,18 @@
+{
+  "name": "Uptime-Monitoring",
+  "version": "1.0.0",
+  "description": "A RESTful API to monitor up or down time of user defined links",
+  "main": "index.js",
+  "author": "Proshanto Lal",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
